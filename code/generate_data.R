@@ -14,8 +14,6 @@ ntimepoints <- 150
 # Sample population sizes
 pop_size <- rnorm(n = ntimepoints, mean = mean_abundance , sd = noise_level)
 
-# Round opopul
-pop_size <- ceiling
 
 # Diagnostic plot
 par(cex = 3) #magnify axes
