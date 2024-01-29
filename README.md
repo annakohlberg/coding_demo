@@ -6,7 +6,7 @@ This repo demonstrates generating data that is a time series of population abund
 
 ## Guide to this repo
 First we generate data using [this script](code\generate_data.R).
-Then we analyze it using [this script](code\dd_analysis.R)
+Then we analyze it using [this script](code\dd_analysis.R).
 
 
 ## Random notes for Anna
