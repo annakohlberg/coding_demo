@@ -29,6 +29,3 @@ par(cex = 3)
 plot(pop_size, per_cap_growth,
     xlab = "Population size",
     ylab = "Per cap. growth rate")
-
-
-#THIS IS A TRIAL TO SEE IF BRANCHING WORKS
